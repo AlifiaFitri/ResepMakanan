@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string name="quotes"><font color='black'>Make your own food,\nstay at </font><font color='#fdd835'>Home!</font></string>
+</resources>
